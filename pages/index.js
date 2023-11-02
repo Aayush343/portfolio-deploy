@@ -38,8 +38,9 @@ export default function Home() {
               </li>
               <li>
                 <a
+                  target="_blank" rel="noreferrer"
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="https://drive.google.com/file/d/1xj1stqXq5Unh8M5wNAIKjIqzeLrU09zB/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1u4LeBz35qyxWq3N2fMUSVopSJxLCzOo0/view?usp=drive_link"
                   download="aayush_kachhia_resume.pdf"
                 >
                   Resume
